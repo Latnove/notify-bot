@@ -1,4 +1,4 @@
-# notify_gifts_bot (оригинал в тг: @notify_gifts_bot)
+# notify-bot (оригинал в тг: @notify_gifts_bot)
 
 Данный бот заспамит в чате/канале, когда выйдут новые гифты в Telegram.
 
