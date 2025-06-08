@@ -56,9 +56,9 @@
 ## База данных
 
 **Выглядит таким образом:**
-TABLE chats (
+`TABLE chats (
 chat_id BIGINT PRIMARY KEY,
 string_array TEXT[],
 cycles INT,
 is_wait BOOLEAN DEFAULT FALSE
-);
+);`
